@@ -23,27 +23,3 @@ Accurate, neat, attentive to detail, consistent, thorough, high standards, follo
 I place the quality on high priority. You will get the result that you expect.
 ★★★
 
-#### 💪My Language:
-
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,solidity,swift,kotlin" />
-  </div>
-
-#### ⛓️Frameworks and Skills:
-
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,flutter,spring,figma,webflow,wordpress,pytorch,tensorflow" />
-  </div>
-  
-#### 🧵Database & Skills:
-
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,supabase,redis,postman" />
-  </div>
-
-#### ⚡️Other Essentials:
-
-  <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
-  </div>
-</div>
