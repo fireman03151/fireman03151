@@ -11,15 +11,33 @@
   ![VisitorCount](https://profile-counter.glitch.me/fireman03151/count.svg)
   &emsp;
   
-Hi. I provide web development services for startups, and small and medium-sized enterprises. I have worked on tens of challenging projects and looking for more opportunity.
+🏆 TOP RATED PLUS
 
-As a full-stack developer, I can do all but my greatest experience is with Back-end Development. (Node.js).
-I also have built many single page applications in React, Next.js, and Angular frameworks.
+✔️ EXPERIENCE: 10 Years
+✔️ HOURS WORKED: 21000+
+✔️ COMPLETED JOB: 325+
+✔️ RATING: ★ ★ ★ ★ ★
 
-I help worldwide customers from various business with my coding, building a core team, and providing best-matching solutions.
+I am an expert Web and App developer, And can do any kind of work in this with responsive layouts!
 
-★★★
-Accurate, neat, attentive to detail, consistent, thorough, high standards, follows procedures for Quality of Work.
-I place the quality on high priority. You will get the result that you expect.
-★★★
+Expertise in many programming skills:
+
+Front-end:
+➖➖➖
+👉 HTML, HTML5, JSON, Rest API.
+👉 Tailwind CSS, CSS3, Twitter Bootstrap, Sass, Responsive.
+👉 WordPress, Javascript, React.js, Angular.js Angular1, Angular2, ES5, ES6, Jquery, Ajax.
+
+Back-end:
+➖➖➖
+👉 PHP [with framework : Laravel 4.x 5.x, Yii 1.x 2.x, CakePHP 2.x , Codeigniter, Symfony], Node.js, Smarty, FuelPHP,
+👉 MongoDB, MySQL
+
+Mobile App
+➖➖➖
+👉 React-Native, Flutter, Ionic, Apache Cordova, Socket.io
+
+Using a project management tool like Asana | Jir@ | Trello | Sl@ck | BaseCamp etc.
+
+Thanks a lot for visiting my profile, You are invited to watch my portfolios. Please see this at a glance. Enjoy your moments have a good time. 🙂
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
