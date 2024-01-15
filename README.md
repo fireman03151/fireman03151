@@ -22,20 +22,20 @@ I am an expert Web and App developer, And can do any kind of work in this with r
 
 Expertise in many programming skills:
 
-Front-end:
-➖➖➖
-👉 HTML, HTML5, JSON, Rest API.
-👉 Tailwind CSS, CSS3, Twitter Bootstrap, Sass, Responsive.
-👉 WordPress, Javascript, React.js, Angular.js Angular1, Angular2, ES5, ES6, Jquery, Ajax.
+<p>Front-end:<p/>
+<p>➖➖➖<p/>
+<p>👉 HTML, HTML5, JSON, Rest API.<p/>
+<p>👉 Tailwind CSS, CSS3, Twitter Bootstrap, Sass, Responsive.<p/>
+<p>👉 WordPress, Javascript, React.js, Angular.js Angular1, Angular2, ES5, ES6, Jquery, Ajax.<p/>
 
-Back-end:
-➖➖➖
-👉 PHP [with framework : Laravel 4.x 5.x, Yii 1.x 2.x, CakePHP 2.x , Codeigniter, Symfony], Node.js, Smarty, FuelPHP,
-👉 MongoDB, MySQL
+<p>Back-end:<p/>
+<p>➖➖➖<p/>
+<p>👉 PHP [with framework : Laravel 4.x 5.x, Yii 1.x 2.x, CakePHP 2.x , Codeigniter, Symfony], Node.js, Smarty, FuelPHP,<p/>
+<p>👉 MongoDB, MySQL<p/>
 
-Mobile App
-➖➖➖
-👉 React-Native, Flutter, Ionic, Apache Cordova, Socket.io
+<p>Mobile App<p/>
+<p>➖➖➖<p/>
+<p>👉 React-Native, Flutter, Ionic, Apache Cordova, Socket.io<p/>
 
 Using a project management tool like Asana | Jir@ | Trello | Sl@ck | BaseCamp etc.
 
