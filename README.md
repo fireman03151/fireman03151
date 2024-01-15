@@ -11,40 +11,31 @@
   ![VisitorCount](https://profile-counter.glitch.me/devtech77snake/count.svg)
   &emsp;
   
-</h1>
+Hi. I provide web development services for startups, and small and medium-sized enterprises. I have worked on tens of challenging projects and looking for more opportunity.
 
-<p>I am a creative software engineer with practical experience in website and mobile app development. Additionally, I am very proficient in technologies such as Docker and Kubernetes, and especially have deep knowledge and rich experience in Cloud technology like AWS.</p>
+As a full-stack developer, I can do all but my greatest experience is with Back-end Development. (Node.js).
+I also have built many single page applications in React, Next.js, and Angular frameworks.
 
-#### Web Development
+I help worldwide customers from various business with my coding, building a core team, and providing best-matching solutions.
 
--   Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js
--   Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot
--   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase
+★★★
+Accurate, neat, attentive to detail, consistent, thorough, high standards, follows procedures for Quality of Work.
+I place the quality on high priority. You will get the result that you expect.
+★★★
 
-  <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
-
-#### Mobile Development
-
--   React Native
--   Flutter
--   Swift
--   Kotlin
-
-#### Tools & Others
-
--   Docker, Kubernetes, Ngnix, GitHub, Jenkins, Trello, Jira
--   Amazon Web Services(Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
--   Google Cloud Platform
--   Microsoft Azure
-
-<p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
-<p></p>
-
-<!-- Skills Section -->
-<h2 align="left">🚀Skills🚀</h2>
-
-<div>
-
+➤ Technical Skills
+• Python & Typescript
+• Django / Django REST / Flask / FastAPI
+• React.js and Angular with Typescript
+• Pytest & Jest
+• AWS ECS, EC2, S3, Lambda
+• Terraform, Cloudformation
+• Github action for CI/CD
+• Postgres (prefered choice), SQLite, MongoDB, MySQL
+• Apache & Nginx
+• Sendgrid, Twilio, Stripe, Okata, RapidAPI
+• Celery, RabbitMQ, Redis
+• Docker, K8s
 #### 🔥Major Programming Languages:
 
   <div align="left">
