@@ -23,19 +23,6 @@ Accurate, neat, attentive to detail, consistent, thorough, high standards, follo
 I place the quality on high priority. You will get the result that you expect.
 ★★★
 
-➤ Technical Skills
-• Python & Typescript
-• Django / Django REST / Flask / FastAPI
-• React.js and Angular with Typescript
-• Pytest & Jest
-• AWS ECS, EC2, S3, Lambda
-• Terraform, Cloudformation
-• Github action for CI/CD
-• Postgres (prefered choice), SQLite, MongoDB, MySQL
-• Apache & Nginx
-• Sendgrid, Twilio, Stripe, Okata, RapidAPI
-• Celery, RabbitMQ, Redis
-• Docker, K8s
 #### 🔥Major Programming Languages:
 
   <div align="left">
