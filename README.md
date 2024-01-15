@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Senior+Web+Developer;Android+%26+iOS+App+Developer;Especially+Backend+Development" alt="devtech77snake" /></a>
-</p>
+
 
 <!-- Short Introduction -->
 
