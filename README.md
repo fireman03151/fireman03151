@@ -8,7 +8,7 @@
   Hi, there. Thank you my github profile <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" />
 
    ### Thanks for visiting :heart:
-  ![VisitorCount](https://profile-counter.glitch.me/devtech77snake/count.svg)
+  ![VisitorCount](https://profile-counter.glitch.me/fireman03151/count.svg)
   &emsp;
   
 Hi. I provide web development services for startups, and small and medium-sized enterprises. I have worked on tens of challenging projects and looking for more opportunity.
