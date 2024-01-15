@@ -23,7 +23,7 @@ Accurate, neat, attentive to detail, consistent, thorough, high standards, follo
 I place the quality on high priority. You will get the result that you expect.
 ★★★
 
-#### 🔥Major Programming Languages:
+#### 💪My Language:
 
   <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,solidity,swift,kotlin" />
