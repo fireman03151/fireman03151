@@ -13,10 +13,10 @@
   
 🏆 TOP RATED PLUS
 
-✔️ EXPERIENCE: 10 Years
-✔️ HOURS WORKED: 21000+
-✔️ COMPLETED JOB: 325+
-✔️ RATING: ★ ★ ★ ★ ★
+<p>✔️ EXPERIENCE: 10 Years<p/>
+<p>✔️ HOURS WORKED: 21000+<p/>
+<p>✔️ COMPLETED JOB: 325+<p/>
+<p>✔️ RATING: ★ ★ ★ ★ ★<p/>
 
 I am an expert Web and App developer, And can do any kind of work in this with responsive layouts!
 
