@@ -6,7 +6,7 @@
 
 <h1 align = "left">
   Hi, there. Thank you my github profile <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" />
-
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
    ### Thanks for visiting :heart:
   ![VisitorCount](https://profile-counter.glitch.me/fireman03151/count.svg)
   &emsp;
