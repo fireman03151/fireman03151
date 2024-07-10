@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;9%2B%20years%20of%20coding%20experience;Always%20learning%20trending%20techs&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
 </p>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🔭 Full-stack developer with 9+ years of experience web developer and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
